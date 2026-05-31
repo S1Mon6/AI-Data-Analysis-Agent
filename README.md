@@ -106,6 +106,4 @@ Action
 
 (Insert your video link here)
 
-Example:
-
-https://drive.google.com/your-demo-video-link
+https://drive.google.com/file/d/1Lmk00t_CKh9MwBayK3RDBcoXF_nd0Z1A/view?usp=drive_link
